@@ -10,7 +10,7 @@ This hangman game is a website to burn some time on. It does the following:
 - allows you to play until you win or lose, with the option of playing again at the end
 
 ##
-![Picture of the site](./assets/images/hangman.png)
+![Picture of the site](./assets/hangman.png)
 ## Technologies
 - Responsive Design
 - HTML
