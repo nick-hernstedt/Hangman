@@ -9,7 +9,8 @@ This hangman game is a website to burn some time on. It does the following:
 - lets you guess letters, putting correct ones on the lines and incorrect ones in the wrong column
 - allows you to play until you win or lose, with the option of playing again at the end
 
-
+##
+![Picture of the site](./assets/images/hangman.png)
 ## Technologies
 - Responsive Design
 - HTML
