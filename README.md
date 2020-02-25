@@ -11,9 +11,10 @@ This hangman game is a website to burn some time on. It does the following:
 
 
 ## Technologies
-HTML
-CSS
-JavaScript
+- Responsive Design
+- HTML
+- CSS
+- JavaScript
 
 ## User story
 AS A person who is bored with some spare time,
